@@ -1,0 +1,44 @@
+body {
+  background-color: lightgreen;
+}
+h1 {
+  color:red;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  border-style: solid;
+  border-color: solidcolor;
+  border-width: 90px;
+}
+p {
+    color:blue;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    font-style: inherit;
+}
+li {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    border-style: solid;
+    border-color: aqua;
+}
+label {
+    text-align: left;
+    font-style: inherit;
+    font-size: medium;
+    border-style: solid;
+    border-color: black;
+}
+input {
+    border-style: solid;
+    border-color: black;
+}
+button {
+    background-color: black;
+    text-color: white;
+    border-style: solid;
+    border-color: blue;
+}
